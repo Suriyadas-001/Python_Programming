@@ -1,0 +1,32 @@
+1. Given a list of words words = ['apple', 'banana', 'cherry', 'kiwi'], use list comprehension to create a new list containing only words with more than 5 letters.
+
+2. Create a list of squares of numbers from 1 to 20, but only include numbers divisible by 3.
+
+3. From nums = [10, 25, 37, 40, 55], use filter() with a lambda to get only numbers divisible by 5.
+
+4. Given numbers = [1, 2, 3, 4, 5], use map() with a lambda to cube all numbers.
+
+5. Write a function safe_open(filename) that opens a file safely — return "File not found" if the file doesn’t exist.
+
+6. Create a program that reads an integer from input. Handle both ValueError and KeyboardInterrupt.
+
+7. Write a Python program to read all lines from a file named data.txt and print only lines containing the word "Python".
+
+8. Given students = {'Alice':85, 'Bob':72, 'Charlie':90}, use dictionary comprehension to create a new dictionary with only students scoring above 80.
+
+9. Combine two dictionaries:
+    dict1 = {'a':1, 'b':2}
+    dict2 = {'b':3, 'c':4}
+
+10. Given two lists a = [1, 2, 3] and b = [4, 5, 6], use list comprehension to create a list containing the sum of corresponding elements.
+
+11. Given a list of tuples students = [('Alice', 25), ('Bob', 20), ('Charlie', 23)], sort them by age using a lambda function.
+
+12. Given a text file data.txt containing:
+    name,score
+    Alice,85
+    Bob,90
+    Charlie,78
+Write a program to read the file and create a dictionary like {'Alice':85, 'Bob':90, 'Charlie':78}.
+
+* . print hello world // this is for testing the worlflow using git
