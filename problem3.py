@@ -1,4 +1,5 @@
 # SOUVIK MANNA
+# Prakash maiti
 
 # 3. From nums = [10, 25, 37, 40, 55], use filter() with a lambda to get only numbers divisible by 5.
 
